@@ -1,3 +1,6 @@
+/*Authors: Noel Raehl, Adam Lail
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
